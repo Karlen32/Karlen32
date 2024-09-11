@@ -57,14 +57,15 @@
   <a href="https://developers.google.com/web/tools/chrome-devtools" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="chrome devtools" width="40" height="40"/>
   </a>
-  <a href="https://www.jetbrains.com/youtrack/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jetbrains_youtrack/jetbrains_youtrack-icon.svg" alt="youtrack" width="40" height="40"/>
+  <a href="https://www.jetbrains.com/youtrack" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTrac&logo=YouTrack&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTrac logo"  />
   </a>
+  
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
   </a>
    <a href="https://www.charlesproxy.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=charles&logo=charles&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="charles logo"  />
+    <img src="https://img.shields.io/static/v1?message=Charles&logo=Charles&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Charles logo"  />
   </a>
 </p>
 
