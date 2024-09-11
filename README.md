@@ -47,7 +47,7 @@
   </a>
  
    <a href="https://miro.com/ru/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=miro&logo=miro&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="miro logo"  />
+    <img src="https://img.shields.io/static/v1?message=miro&logo=miro&label=&color=000000&logoColor=FFFF00&labelColor=&style=for-the-badge" height="30" alt="miro logo"  />
   </a>
    <a href="https://apidocjs.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=apidoc&logo=apidoc&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="apidoc logo"  />
