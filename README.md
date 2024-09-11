@@ -1,6 +1,8 @@
 # Привет👋 Меня зовут Карлен! 
 
+<div align="center">
 ![image](https://github.com/user-attachments/assets/5623c7d0-ce85-449a-8a10-c0b9e8eb11e6)
+</div>
 
 
 
