@@ -54,10 +54,11 @@
     <a href="https://swagger.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=swagger&logo=swagger&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="swagger logo"  />
   </a>
-  <a href="https://developers.google.com/web/tools/chrome-devtools" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="chrome devtools" width="40" height="40"/>
+   <a href="https://developer.chrome.com/docs/devtools?hl=ru" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=devtools&logo=devtools&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devtools logo"  />
   </a>
-  <a href="https://www.jetbrains.com/youtrack" target="_blank">
+  
+  <a href="https://www.jetbrains.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTrack&logo=YouTrack&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTrack logo"  />
   </a>
   
