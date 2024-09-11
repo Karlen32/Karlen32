@@ -50,9 +50,8 @@
   </a>
    <a href="https://apidocjs.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=apidoc&logo=apidoc&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="apidoc logo"  />
-  
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/swaggerio/swaggerio-icon.svg" alt="swagger" width="40" height="40"/>
+    <a href="https://swagger.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=swagger&logo=swagger&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="swagger logo"  />
   </a>
   <a href="https://developers.google.com/web/tools/chrome-devtools" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="chrome devtools" width="40" height="40"/>
