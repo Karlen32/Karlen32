@@ -68,7 +68,7 @@
     <img src="https://img.shields.io/static/v1?message=Charles&logo=Charles&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="Charles logo"  />
   </a>
 </p>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
