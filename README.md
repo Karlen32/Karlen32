@@ -72,10 +72,13 @@
 </p>
 
 
+<a href="https://github.com/Karlen32" target="_blank">
+  <img src="./asset/chartreuse.png" height=250 alt="graph"/> 
+  </a>
 
-![](https://github.com/Karlen32/Karlen32/edit/main/README.md.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg)
 
-<img src="https://github.com/Karlen32/Karlen32/edit/main/README.md./asset/react-dark.svg" height=250 alt="graph"/>
+
+ <img src="./asset/chartreuse.png" height=250 alt="graph"/>
 
 
 
