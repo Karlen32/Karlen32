@@ -40,32 +40,32 @@
     <img src="https://img.shields.io/static/v1?message=postman&logo=postman&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="postman logo"  />
   </a>
   <a href="https://www.atlassian.com/software/jira"_blank">
-    <img src="https://img.shields.io/static/v1?message=jira&logo=jira&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="jira logo"  />
+    <img src="https://img.shields.io/static/v1?message=jira&logo=jira&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="jira logo"  />
   </a>
    <a href="https://developer.android.com"_blank">
-    <img src="https://img.shields.io/static/v1?message=Android Studio&logo=Android Studio&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Android Studio logo"  />
+    <img src="https://img.shields.io/static/v1?message=Android Studio&logo=Android Studio&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="Android Studio logo"  />
   </a>
  
    <a href="https://miro.com/ru/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=miro&logo=miro&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="miro logo"  />
+    <img src="https://img.shields.io/static/v1?message=miro&logo=miro&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="miro logo"  />
   </a>
    <a href="https://apidocjs.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=apidoc&logo=apidoc&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="apidoc logo"  />
+    <img src="https://img.shields.io/static/v1?message=apidoc&logo=apidoc&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="apidoc logo"  />
   </a>
     <a href="https://swagger.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=swagger&logo=swagger&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="swagger logo"  />
+    <img src="https://img.shields.io/static/v1?message=swagger&logo=swagger&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="swagger logo"  />
   </a>
    <a href="https://developer.chrome.com/docs/devtools?hl=ru" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=devtools&logo=devtools&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="devtools logo"  />
+    <img src="https://img.shields.io/static/v1?message=devtools&logo=devtools&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="devtools logo"  />
   </a>
   
   <a href="https://www.jetbrains.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTrack&logo=YouTrack&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="YouTrack logo"  />
+    <img src="https://img.shields.io/static/v1?message=YouTrack&logo=YouTrack&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="YouTrack logo"  />
   </a>
   
   
    <a href="https://www.charlesproxy.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Charles&logo=Charles&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Charles logo"  />
+    <img src="https://img.shields.io/static/v1?message=Charles&logo=Charles&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="Charles logo"  />
   </a>
 </p>
 
