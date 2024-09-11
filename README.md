@@ -1,7 +1,8 @@
 <h1 align="center">Привет👋 Меня зовут Карлен!</h1>
 <div align="center">
-  <img height="300" width="450" src="https://github.com/user-attachments/assets/5623c7d0-ce85-449a-8a10-c0b9e8eb11e6"  />
+  <img height="300" width="450" src="https://github.com/user-attachments/assets/61dca25f-f1ef-413d-abaf-1f3024381648"  />
 </div>
+
 
 
 
