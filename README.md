@@ -27,12 +27,15 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a> 
+   <a href="https://www.docker.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=docker&logo=docker&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="docker logo"  />
+  </a>
     <a href="https://www.figma.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=figmal&logo=figmal&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="figma logo"  />
+    <img src="https://img.shields.io/static/v1?message=figma&logo=figma&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="figma logo"  />
   </a>
  
    <a href="https://www.mysql.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=mysqll&logo=mysqll&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="mysql logo"  />
+    <img src="https://img.shields.io/static/v1?message=mysql&logo=mysql&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="mysql logo"  />
   </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://img.shields.io/static/v1?message=postgresql&logo=postgresql&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="postgresql logo"  />
