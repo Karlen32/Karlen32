@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/static/v1?message=mysql&logo=mysql&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="mysql logo"  />
   </a>
   <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=postgresql&logo=postgresql&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="postgresql logo"  />
+    <img src="https://img.shields.io/static/v1?message=postgresql&logo=postgresql&label=&color=000000&logoColor=00BFFF&labelColor=&style=for-the-badge" height="30" alt="postgresql logo"  />
   </a>
   <a href="https://www.postman.com"_blank">
     <img src="https://img.shields.io/static/v1?message=postman&logo=postman&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="postman logo"  />
