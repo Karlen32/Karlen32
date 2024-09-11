@@ -48,9 +48,9 @@
    <a href="https://miro.com/ru/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=miro&logo=miro&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="miro logo"  />
   </a>
-  <a href="https://apidocjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apidocjs/apidocjs-icon.svg" alt="apidoc" width="40" height="40"/>
-  </a>
+   <a href="https://apidocjs.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=apidoc&logo=apidoc&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="apidoc logo"  />
+  
   <a href="https://swagger.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/swaggerio/swaggerio-icon.svg" alt="swagger" width="40" height="40"/>
   </a>
