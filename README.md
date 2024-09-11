@@ -71,6 +71,9 @@
   <a href="https://www.charlesproxy.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Charles&logo=Charles&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="Charles logo"  />
   </a>
+   <a href="https://www.microsoft.com/ru-ru/microsoft-365/excel?market=ru" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=excel&logo=excel&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="excel logo"  />
+  </a>
 </p>
 
 
