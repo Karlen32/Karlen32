@@ -73,9 +73,9 @@
 
 
 
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg)
+![](https://github.com/Karlen32/Karlen32/edit/main/README.md.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg)
 
-<img src="./asset/react-dark.svg" height=250 alt="graph"/>
+<img src="https://github.com/Karlen32/Karlen32/edit/main/README.md./asset/react-dark.svg" height=250 alt="graph"/>
 
 
 
