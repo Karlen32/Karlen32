@@ -1,7 +1,7 @@
 # Привет👋 Меня зовут Карлен! 
 
 <div align="center">
-  <img height="300" width="600" src="https://github.com/user-attachments/assets/5623c7d0-ce85-449a-8a10-c0b9e8eb11e6"  />
+  <img height="400" width="550" src="https://github.com/user-attachments/assets/5623c7d0-ce85-449a-8a10-c0b9e8eb11e6"  />
 </div>
 
 
