@@ -39,8 +39,8 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
+  <a href="https://www.atlassian.com/software/jira"_blank">
+    <img src="https://img.shields.io/static/v1?message=jira&logo=jira&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="jira logo"  />
   </a>
    <a href="https://developer.android.com"_blank">
     <img src="https://img.shields.io/static/v1?message=Android Studio&logo=Android Studio&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Android Studio logo"  />
