@@ -39,14 +39,14 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-  <a href="https://www.charlesproxy.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.charlesproxy.com/assets/logos/charles-proxy-logo.png" alt="charles" width="40" height="40"/>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
   </a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" alt="android studio" width="40" height="40"/>
   </a>
-  <a href="https://miro.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/miroapp/miroapp-icon.svg" alt="miro" width="40" height="40"/>
+   <a href="https://miro.com/ru/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=miro&logo=miro&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="miro logo"  />
   </a>
   <a href="https://apidocjs.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apidocjs/apidocjs-icon.svg" alt="apidoc" width="40" height="40"/>
@@ -61,9 +61,7 @@
     <img src="https://img.shields.io/static/v1?message=YouTrack&logo=YouTrack&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTrack logo"  />
   </a>
   
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
-  </a>
+  
    <a href="https://www.charlesproxy.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Charles&logo=Charles&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Charles logo"  />
   </a>
