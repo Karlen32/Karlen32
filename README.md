@@ -50,6 +50,7 @@
   </a>
    <a href="https://apidocjs.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=apidoc&logo=apidoc&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="apidoc logo"  />
+  </a>
     <a href="https://swagger.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=swagger&logo=swagger&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="swagger logo"  />
   </a>
