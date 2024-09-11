@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/static/v1?message=postman&logo=postman&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="postman logo"  />
   </a>
   <a href="https://www.atlassian.com/software/jira"_blank">
-    <img src="https://img.shields.io/static/v1?message=jira&logo=jira&label=&color=000000&logoColor=0000FF&labelColor=&style=for-the-badge" height="30" alt="jira logo"  />
+    <img src="https://img.shields.io/static/v1?message=jira&logo=jira&label=&color=000000&logoColor=4169E1&labelColor=&style=for-the-badge" height="30" alt="jira logo"  />
   </a>
    <a href="https://developer.android.com"_blank">
     <img src="https://img.shields.io/static/v1?message=Android Studio&logo=Android Studio&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="Android Studio logo"  />
