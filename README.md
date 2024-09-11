@@ -63,6 +63,9 @@
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
   </a>
+   <a href="https://www.charlesproxy.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=charlesproxy&logo=charlesproxy&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="charlesproxy logo"  />
+  </a>
 </p>
 
 
