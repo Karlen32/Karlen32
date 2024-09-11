@@ -58,7 +58,7 @@
     <img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="chrome devtools" width="40" height="40"/>
   </a>
   <a href="https://www.jetbrains.com/youtrack" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTrac&logo=YouTrack&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTrac logo"  />
+    <img src="https://img.shields.io/static/v1?message=YouTrack&logo=YouTrack&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTrack logo"  />
   </a>
   
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
