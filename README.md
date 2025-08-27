@@ -51,10 +51,9 @@
   <a href="https://www.microsoft.com/ru-ru/microsoft-365/excel?market=ru" target="_blank">
     <img src="https://img.shields.io/static/v1?message=excel&logo=excel&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="excel logo"  />
   </a>
-   <a href="https://developer.android.com"_blank">
-    <img src="https://img.shields.io/static/v1?message=Android Studio&logo=Android Studio&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="Android Studio logo"  />
-  </a>
- 
+  <a href="https://developer.android.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Android Studio&logo=Android Studio&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="30" alt="Android Studio logo" />
+</a>
    <a href="https://miro.com/ru/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=miro&logo=miro&label=&color=000000&logoColor=FFFF00&labelColor=&style=for-the-badge" height="30" alt="miro logo"  />
   </a>
